@@ -7,8 +7,6 @@ import zipfile as zf
 import matplotlib.image as mpimg
 
 
-
-
 Test_tomato = ( './tomato/val/Tomato___Bacterial_spot/*.jgp')
 A = len(Test_tomato)
 print("Training sample: {}".format(A))
